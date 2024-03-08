@@ -1,2 +1,2 @@
-# Git_Crouse
-learn git crouse
+# Git_Course
+learn git course
